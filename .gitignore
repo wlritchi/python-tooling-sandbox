@@ -1,4 +1,5 @@
 .coverage
+.pyre/
 .vscode/
 __pycache__/
 dist/
